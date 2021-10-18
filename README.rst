@@ -84,22 +84,14 @@ Projects that provide financial support to the maintainers:
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://cdn.shopify.com/s/files/1/0304/6901/products/Two-Scoops-of-Django-3-Alpha-Cover_540x_26507b15-e489-470b-8a97-02773dd498d1_1080x.jpg
-   :name: Two Scoops of Django 3.x
-   :align: center
-   :alt: Two Scoops of Django
-   :target: https://www.feldroy.com/products//two-scoops-of-django-3-x
+
 
 Two Scoops of Django 3.x is the best ice cream-themed Django reference in the universe!
 
 pyup
 ~~~~~~~~~~~~~~~~~~
 
-.. image:: https://pyup.io/static/images/logo.png
-   :name: pyup
-   :align: center
-   :alt: pyup
-   :target: https://pyup.io/
+
 
 Pyup brings you automated security and dependency updates used by Google and other organizations. Free for open source projects!
 
