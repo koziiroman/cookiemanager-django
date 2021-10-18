@@ -1,41 +1,11 @@
-Cookiecutter Django
+Cookiemanager Django
 ===================
 
-.. image:: https://img.shields.io/github/workflow/status/pydanny/cookiecutter-django/CI/master
-    :target: https://github.com/pydanny/cookiecutter-django/actions?query=workflow%3ACI
-    :alt: Build Status
-
-.. image:: https://readthedocs.org/projects/cookiecutter-django/badge/?version=latest
-    :target: https://cookiecutter-django.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
-.. image:: https://pyup.io/repos/github/pydanny/cookiecutter-django/shield.svg
-    :target: https://pyup.io/repos/github/pydanny/cookiecutter-django/
-    :alt: Updates
-
-.. image:: https://img.shields.io/badge/cookiecutter-Join%20on%20Slack-green?style=flat&logo=slack
-    :target: https://join.slack.com/t/cookie-cutter/shared_invite/enQtNzI0Mzg5NjE5Nzk5LTRlYWI2YTZhYmQ4YmU1Y2Q2NmE1ZjkwOGM0NDQyNTIwY2M4ZTgyNDVkNjMxMDdhZGI5ZGE5YmJjM2M3ODJlY2U
-
-.. image:: https://www.codetriage.com/pydanny/cookiecutter-django/badges/users.svg
-    :target: https://www.codetriage.com/pydanny/cookiecutter-django
-    :alt: Code Helpers Badge
-
-.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
-    :target: https://github.com/ambv/black
-    :alt: Code style: black
-
-Powered by Cookiecutter_, Cookiecutter Django is a framework for jumpstarting
 production-ready Django projects quickly.
 
-* Documentation: https://cookiecutter-django.readthedocs.io/en/latest/
 * See Troubleshooting_ for common errors and obstacles
-* If you have problems with Cookiecutter Django, please open issues_ don't send
+* If you have problems with Cookiemanger Django, please open issues_ don't send
   emails to the maintainers.
-
-.. _Troubleshooting: https://cookiecutter-django.readthedocs.io/en/latest/troubleshooting.html
-
-.. _528: https://github.com/pydanny/cookiecutter-django/issues/528#issuecomment-212650373
-.. _issues: https://github.com/pydanny/cookiecutter-django/issues/new
 
 Features
 ---------
@@ -139,13 +109,6 @@ Usage
 Let's pretend you want to create a Django project called "redditclone". Rather than using ``startproject``
 and then editing the results to include your name, email, and various configuration issues that always get forgotten until the worst possible moment, get cookiecutter_ to do all the work.
 
-First, get Cookiecutter. Trust me, it's awesome::
-
-    $ pip install "cookiecutter>=1.7.0"
-
-Now run it against this repo::
-
-    $ cookiecutter https://github.com/pydanny/cookiecutter-django
 
 You'll be prompted for some values. Provide them, then a Django project will be created for you.
 
@@ -153,7 +116,7 @@ You'll be prompted for some values. Provide them, then a Django project will be 
 
 Answer the prompts with your own desired options_. For example::
 
-    Cloning into 'cookiecutter-django'...
+    Cloning into 'cookiemanager-django'...
     remote: Counting objects: 550, done.
     remote: Compressing objects: 100% (310/310), done.
     remote: Total 550 (delta 283), reused 479 (delta 222)
@@ -233,9 +196,6 @@ Community
 * If you think you found a bug or want to request a feature, please open an issue_.
 * For anything else, you can chat with us on `Slack`_.
 
-.. _`Stack Overflow`: http://stackoverflow.com/questions/tagged/cookiecutter-django
-.. _`issue`: https://github.com/pydanny/cookiecutter-django/issues
-.. _`Slack`: https://join.slack.com/t/cookie-cutter/shared_invite/enQtNzI0Mzg5NjE5Nzk5LTRlYWI2YTZhYmQ4YmU1Y2Q2NmE1ZjkwOGM0NDQyNTIwY2M4ZTgyNDVkNjMxMDdhZGI5ZGE5YmJjM2M3ODJlY2U
 
 For Readers of Two Scoops of Django
 --------------------------------------------
@@ -257,8 +217,6 @@ Scattered throughout the Python and HTML of this project are places marked with 
 Releases
 --------
 
-Need a stable release? You can find them at https://github.com/pydanny/cookiecutter-django/releases
-
 
 Not Exactly What You Want?
 ---------------------------
@@ -274,11 +232,6 @@ It's up to you whether or not to rename your fork.
 
 If you do rename your fork, I encourage you to submit it to the following places:
 
-* cookiecutter_ so it gets listed in the README as a template.
-* The cookiecutter grid_ on Django Packages.
-
-.. _cookiecutter: https://github.com/cookiecutter/cookiecutter
-.. _grid: https://www.djangopackages.com/grids/g/cookiecutters/
 
 Submit a Pull Request
 ~~~~~~~~~~~~~~~~~~~~~~
