@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2021-11-26]
+### Changed
+- Setup pre-commit for the template files ([#3433](https://github.com/cookiecutter/cookiecutter-django/pull/3433))
+
 ## [2021-11-25]
 ### Changed
 - Add an assertion to fix mypy type error ([#3150](https://github.com/cookiecutter/cookiecutter-django/pull/3150))
