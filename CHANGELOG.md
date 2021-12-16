@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2021-12-15]
+### Updated
+- Update djangorestframework to 3.13.1 ([#3472](https://github.com/cookiecutter/cookiecutter-django/pull/3472))
+
 ## [2021-12-14]
 ### Changed
 - Update rcssmin &amp; django-compressor ([#3470](https://github.com/cookiecutter/cookiecutter-django/pull/3470))
