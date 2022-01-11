@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-01-10]
+### Updated
+- Update django-cors-headers to 3.11.0 ([#3526](https://github.com/cookiecutter/cookiecutter-django/pull/3526))
+- Update sentry-sdk to 1.5.2 ([#3525](https://github.com/cookiecutter/cookiecutter-django/pull/3525))
+- Update gitpython to 3.1.26 ([#3524](https://github.com/cookiecutter/cookiecutter-django/pull/3524))
+
 ## [2022-01-09]
 ### Changed
 - Fix broken center align of image links in README  ([#3522](https://github.com/cookiecutter/cookiecutter-django/pull/3522))
