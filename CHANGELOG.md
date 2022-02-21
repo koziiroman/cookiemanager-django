@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-02-20]
+### Changed
+- Fix incorrect createdb instruction in documentation ([#3606](https://github.com/cookiecutter/cookiecutter-django/pull/3606))
+
 ## [2022-02-16]
 ### Fixed
 - Fix Swagger schema API endpoint &amp; add a test for it ([#3592](https://github.com/cookiecutter/cookiecutter-django/pull/3592))
