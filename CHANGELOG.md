@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-04-19]
+### Updated
+- Update tox to 3.25.0 ([#3675](https://github.com/cookiecutter/cookiecutter-django/pull/3675))
+- Update sentry-sdk to 1.5.10 ([#3679](https://github.com/cookiecutter/cookiecutter-django/pull/3679))
+
 ## [2022-04-13]
 ### Updated
 - Bump stefanzweifel/git-auto-commit-action from 4.14.0 to 4.14.1 ([#3677](https://github.com/cookiecutter/cookiecutter-django/pull/3677))
