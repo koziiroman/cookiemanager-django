@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-05-01]
+### Updated
+- Update django-debug-toolbar to 3.3.0 ([#3690](https://github.com/cookiecutter/cookiecutter-django/pull/3690))
+
 ## [2022-04-28]
 ### Changed
 - Add the possibility to set a max django version on create_django_issue script ([#3680](https://github.com/cookiecutter/cookiecutter-django/pull/3680))
