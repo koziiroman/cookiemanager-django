@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-09-24]
+### Fixed
+- Remove `--no-deps` in pip wheels command of docs Dockerfile ([#3875](https://github.com/cookiecutter/cookiecutter-django/pull/3875))
+
 ## [2022-09-23]
 ### Changed
 - Reload uvicorn on html file change ([#3866](https://github.com/cookiecutter/cookiecutter-django/pull/3866))
