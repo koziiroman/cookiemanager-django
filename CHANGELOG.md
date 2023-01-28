@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-01-27]
+### Updated
+- Update django-stubs to 1.14.0 ([#4103](https://github.com/cookiecutter/cookiecutter-django/pull/4103))
+
 ## [2023-01-26]
 ### Changed
 - Rename BASE_DIR_PATH to BASE_DIR ([#4102](https://github.com/cookiecutter/cookiecutter-django/pull/4102))
