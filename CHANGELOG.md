@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-25]
+### Updated
+- Update pytz to 2023.2 ([#4228](https://github.com/cookiecutter/cookiecutter-django/pull/4228))
+
 ## [2023-03-23]
 ### Updated
 - Bump traefik from 2.9.8 to 2.9.9 ([#4225](https://github.com/cookiecutter/cookiecutter-django/pull/4225))
