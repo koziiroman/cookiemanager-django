@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-04-07]
+### Updated
+- Upgrade traefik to 2.9.10 ([#4267](https://github.com/cookiecutter/cookiecutter-django/pull/4267))
+
 ## [2023-04-05]
 ### Changed
 - Update indent for nginx config file ([#4260](https://github.com/cookiecutter/cookiecutter-django/pull/4260))
