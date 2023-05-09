@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-05-08]
+### Changed
+- Fix the build on RTD ([#4322](https://github.com/cookiecutter/cookiecutter-django/pull/4322))
+### Updated
+- Auto-update pre-commit hooks ([#4320](https://github.com/cookiecutter/cookiecutter-django/pull/4320))
+- Update sentry-sdk to 1.22.2 ([#4321](https://github.com/cookiecutter/cookiecutter-django/pull/4321))
+
 ## [2023-05-04]
 ### Changed
 - Remove pytz from dependencies ([#4309](https://github.com/cookiecutter/cookiecutter-django/pull/4309))
