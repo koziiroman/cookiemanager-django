@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-06-11]
+### Updated
+- Update pytest to 7.3.2 ([#4384](https://github.com/cookiecutter/cookiecutter-django/pull/4384))
+- Auto-update pre-commit hooks ([#4385](https://github.com/cookiecutter/cookiecutter-django/pull/4385))
+
 ## [2023-06-09]
 ### Fixed
 - Fix missing `compilemessages` step before deploying to prod ([#4363](https://github.com/cookiecutter/cookiecutter-django/pull/4363))
