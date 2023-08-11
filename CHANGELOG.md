@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-08-10]
+### Changed
+- Update sh to 2.0.6 ([#4508](https://github.com/cookiecutter/cookiecutter-django/pull/4508))
+- Update tox to 4.7.0 ([#4505](https://github.com/cookiecutter/cookiecutter-django/pull/4505))
+- Update pygithub to 1.59.1 ([#4501](https://github.com/cookiecutter/cookiecutter-django/pull/4501))
+### Fixed
+- Corrected &#39;or&#39; translation to pt-br ([#4507](https://github.com/cookiecutter/cookiecutter-django/pull/4507))
+
 ## [2023-08-04]
 ### Changed
 - Update cookiecutter to 2.3.0 ([#4502](https://github.com/cookiecutter/cookiecutter-django/pull/4502))
