@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-08-17]
+### Changed
+- Update tox to 4.9.0 ([#4529](https://github.com/cookiecutter/cookiecutter-django/pull/4529))
+### Updated
+- Update argon2-cffi to 23.1.0 ([#4527](https://github.com/cookiecutter/cookiecutter-django/pull/4527))
+- Auto-update pre-commit hooks ([#4530](https://github.com/cookiecutter/cookiecutter-django/pull/4530))
+
 ## [2023-08-16]
 ### Updated
 - Update django-upgrade to 1.14.1 ([#4528](https://github.com/cookiecutter/cookiecutter-django/pull/4528))
