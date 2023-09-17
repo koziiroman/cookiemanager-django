@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-09-16]
+### Updated
+- Auto-update pre-commit hooks ([#4586](https://github.com/cookiecutter/cookiecutter-django/pull/4586))
+
 ## [2023-09-15]
 ### Updated
 - Update flake8-isort to 6.1.0 ([#4585](https://github.com/cookiecutter/cookiecutter-django/pull/4585))
