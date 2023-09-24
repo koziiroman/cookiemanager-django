@@ -3,6 +3,15 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-09-23]
+### Changed
+- Update cookiecutter to 2.3.1 ([#4593](https://github.com/cookiecutter/cookiecutter-django/pull/4593))
+- Update gitpython to 3.1.37 ([#4592](https://github.com/cookiecutter/cookiecutter-django/pull/4592))
+### Updated
+- Update psycopg to 3.1.11 ([#4595](https://github.com/cookiecutter/cookiecutter-django/pull/4595))
+- Auto-update pre-commit hooks ([#4591](https://github.com/cookiecutter/cookiecutter-django/pull/4591))
+- Update drf-spectacular to 0.26.5 ([#4594](https://github.com/cookiecutter/cookiecutter-django/pull/4594))
+
 ## [2023-09-21]
 ### Updated
 - Auto-update pre-commit hooks ([#4589](https://github.com/cookiecutter/cookiecutter-django/pull/4589))
