@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-10-23]
+### Updated
+- Update pylint-django to 2.5.5 ([#4638](https://github.com/cookiecutter/cookiecutter-django/pull/4638))
+
 ## [2023-10-19]
 ### Changed
 - Update gitpython to 3.1.40 ([#4635](https://github.com/cookiecutter/cookiecutter-django/pull/4635))
