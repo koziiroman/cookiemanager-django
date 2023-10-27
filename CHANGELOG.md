@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-10-26]
+### Updated
+- Update django-anymail to 10.2 ([#4645](https://github.com/cookiecutter/cookiecutter-django/pull/4645))
+
 ## [2023-10-24]
 ### Changed
 - Bump actions/setup-node from 3 to 4 ([#4643](https://github.com/cookiecutter/cookiecutter-django/pull/4643))
