@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-11-14]
+### Updated
+- Update sentry-sdk to 1.35.0 ([#4681](https://github.com/cookiecutter/cookiecutter-django/pull/4681))
+- Auto-update pre-commit hooks ([#4683](https://github.com/cookiecutter/cookiecutter-django/pull/4683))
+
 ## [2023-11-11]
 ### Updated
 - Update celery to 5.3.5 ([#4678](https://github.com/cookiecutter/cookiecutter-django/pull/4678))
