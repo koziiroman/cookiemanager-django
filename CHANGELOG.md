@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-11-21]
+### Changed
+- Update cookiecutter to 2.5.0 ([#4689](https://github.com/cookiecutter/cookiecutter-django/pull/4689))
+- Update pytest-xdist to 3.5.0 ([#4688](https://github.com/cookiecutter/cookiecutter-django/pull/4688))
+### Updated
+- Update sentry-sdk to 1.36.0 ([#4687](https://github.com/cookiecutter/cookiecutter-django/pull/4687))
+
 ## [2023-11-20]
 ### Changed
 - Update pytest-xdist to 3.4.0 ([#4680](https://github.com/cookiecutter/cookiecutter-django/pull/4680))
