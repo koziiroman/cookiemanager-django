@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-12-10]
+### Changed
+- Update isort to 5.13.0 ([#4727](https://github.com/cookiecutter/cookiecutter-django/pull/4727))
+### Updated
+- Update pre-commit to 3.6.0 ([#4728](https://github.com/cookiecutter/cookiecutter-django/pull/4728))
+- Auto-update pre-commit hooks ([#4729](https://github.com/cookiecutter/cookiecutter-django/pull/4729))
+
 ## [2023-12-09]
 ### Changed
 - Add missing __init__.py file to api module ([#4726](https://github.com/cookiecutter/cookiecutter-django/pull/4726))
