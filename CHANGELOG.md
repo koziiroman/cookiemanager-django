@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-12-19]
+### Changed
+- Upgrade debian to 12 bookworm ([#4745](https://github.com/cookiecutter/cookiecutter-django/pull/4745))
+### Updated
+- Update hiredis to 2.3.2 ([#4750](https://github.com/cookiecutter/cookiecutter-django/pull/4750))
+
 ## [2023-12-15]
 ### Changed
 - Update isort to 5.13.2 ([#4742](https://github.com/cookiecutter/cookiecutter-django/pull/4742))
