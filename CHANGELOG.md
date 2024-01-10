@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-01-09]
+### Changed
+- Update allauth settings documentation links ([#4769](https://github.com/cookiecutter/cookiecutter-django/pull/4769))
+- Bump tiangolo/issue-manager from 0.4.0 to 0.4.1 ([#4780](https://github.com/cookiecutter/cookiecutter-django/pull/4780))
+### Updated
+- Update django-allauth to 0.60.0 ([#4776](https://github.com/cookiecutter/cookiecutter-django/pull/4776))
+- Update psycopg to 3.1.17 ([#4777](https://github.com/cookiecutter/cookiecutter-django/pull/4777))
+
 ## [2024-01-05]
 ### Updated
 - Auto-update pre-commit hooks ([#4774](https://github.com/cookiecutter/cookiecutter-django/pull/4774))
