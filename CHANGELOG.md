@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-01-12]
+### Changed
+- Update tox to 4.12.0 ([#4785](https://github.com/cookiecutter/cookiecutter-django/pull/4785))
+
 ## [2024-01-11]
 ### Updated
 - Update jinja2 to 3.1.3 ([#4784](https://github.com/cookiecutter/cookiecutter-django/pull/4784))
