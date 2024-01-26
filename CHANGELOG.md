@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-01-25]
+### Changed
+- Replace custom static &amp; media storage classes by passing options in the `STORAGES` setting ([#4803](https://github.com/cookiecutter/cookiecutter-django/pull/4803))
+- Add registry to Docker images names ([#4804](https://github.com/cookiecutter/cookiecutter-django/pull/4804))
+
 ## [2024-01-24]
 ### Changed
 - Migrate to the unified `STORAGES` setting added in Django 4.2 ([#4477](https://github.com/cookiecutter/cookiecutter-django/pull/4477))
