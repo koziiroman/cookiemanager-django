@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-03-07]
+### Changed
+- Update tox to 4.14.1 ([#4906](https://github.com/cookiecutter/cookiecutter-django/pull/4906))
+### Updated
+- Auto-update pre-commit hooks ([#4907](https://github.com/cookiecutter/cookiecutter-django/pull/4907))
+- Update sentry-sdk to 1.41.0 ([#4908](https://github.com/cookiecutter/cookiecutter-django/pull/4908))
+
 ## [2024-03-06]
 ### Changed
 - Update tox to 4.14.0 ([#4904](https://github.com/cookiecutter/cookiecutter-django/pull/4904))
