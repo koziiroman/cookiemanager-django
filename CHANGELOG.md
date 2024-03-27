@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-03-26]
+### Changed
+- Update mentions of psycopg in comments ([#4947](https://github.com/cookiecutter/cookiecutter-django/pull/4947))
+
 ## [2024-03-21]
 ### Changed
 - Add PostgreSQL 16, remove Postgres 10 and 11 ([#4935](https://github.com/cookiecutter/cookiecutter-django/pull/4935))
