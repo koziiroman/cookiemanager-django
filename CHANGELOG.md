@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-04-23]
+### Changed
+- Update link to djlint on pyproject.toml ([#5019](https://github.com/cookiecutter/cookiecutter-django/pull/5019))
+- Update myst-parser to 3.0.0 ([#5017](https://github.com/cookiecutter/cookiecutter-django/pull/5017))
+### Updated
+- Update redis to 5.0.4 ([#5018](https://github.com/cookiecutter/cookiecutter-django/pull/5018))
+- Update django-allauth to 0.62.0 ([#5016](https://github.com/cookiecutter/cookiecutter-django/pull/5016))
+
 ## [2024-04-22]
 ### Fixed
 - Fix broken link for sphinx-doc in generated docs ([#5015](https://github.com/cookiecutter/cookiecutter-django/pull/5015))
