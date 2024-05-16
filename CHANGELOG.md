@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-05-15]
+### Fixed
+- Disable DDT profiling panel ([#5069](https://github.com/cookiecutter/cookiecutter-django/pull/5069))
+
 ## [2024-05-13]
 ### Changed
 - Rename docker compose files to include &#39;docker-compose&#39; ([#4995](https://github.com/cookiecutter/cookiecutter-django/pull/4995))
