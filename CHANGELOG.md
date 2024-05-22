@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-05-21]
+### Changed
+- Update requests to 2.32.1 ([#5082](https://github.com/cookiecutter/cookiecutter-django/pull/5082))
+### Updated
+- Update sentry-sdk to 2.2.1 ([#5083](https://github.com/cookiecutter/cookiecutter-django/pull/5083))
+
 ## [2024-05-20]
 ### Fixed
 - Fix PyCharm Run Configurations After local.yml Rename ([#5080](https://github.com/cookiecutter/cookiecutter-django/pull/5080))
