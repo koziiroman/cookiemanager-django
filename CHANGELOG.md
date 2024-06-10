@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-06-09]
+### Changed
+- Auto-update pre-commit hooks ([#5128](https://github.com/cookiecutter/cookiecutter-django/pull/5128))
+
 ## [2024-06-08]
 ### Changed
 - Replace deprecated `uvicorn.workers` with `uvicorn-worker` ([#5110](https://github.com/cookiecutter/cookiecutter-django/pull/5110))
