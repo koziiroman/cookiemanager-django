@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-08-19]
+### Updated
+- Update factory-boy to 3.3.1 ([#5307](https://github.com/cookiecutter/cookiecutter-django/pull/5307))
+
 ## [2024-08-17]
 ### Changed
 - Auto-update pre-commit hooks ([#5304](https://github.com/cookiecutter/cookiecutter-django/pull/5304))
