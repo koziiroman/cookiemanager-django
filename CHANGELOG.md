@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-08-26]
+### Changed
+- Remove unnecessary `--dry-run` flag ([#5323](https://github.com/cookiecutter/cookiecutter-django/pull/5323))
+- Update pygithub to 2.4.0 ([#5326](https://github.com/cookiecutter/cookiecutter-django/pull/5326))
+- Check DB migrations in GitHub CI ([#5322](https://github.com/cookiecutter/cookiecutter-django/pull/5322))
+### Updated
+- Update mypy to 1.11.2 ([#5320](https://github.com/cookiecutter/cookiecutter-django/pull/5320))
+
 ## [2024-08-23]
 ### Changed
 - Auto-update ruff pre-commit hook ([#5317](https://github.com/cookiecutter/cookiecutter-django/pull/5317))
