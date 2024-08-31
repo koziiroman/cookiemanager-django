@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-08-30]
+### Updated
+- Update django-webpack-loader to 3.1.1 ([#5336](https://github.com/cookiecutter/cookiecutter-django/pull/5336))
+
 ## [2024-08-29]
 ### Updated
 - Update ruff to 0.6.3 ([#5333](https://github.com/cookiecutter/cookiecutter-django/pull/5333))
