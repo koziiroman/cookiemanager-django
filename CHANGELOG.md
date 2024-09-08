@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-09-07]
+### Changed
+- Fix Requires Python to allow minor versions ([#5360](https://github.com/cookiecutter/cookiecutter-django/pull/5360))
+
 ## [2024-09-06]
 ### Changed
 - Remove empty setup.py and references to it ([#5355](https://github.com/cookiecutter/cookiecutter-django/pull/5355))
