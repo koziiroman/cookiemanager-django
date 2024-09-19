@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-09-18]
+### Changed
+- Auto-update pre-commit hooks ([#5384](https://github.com/cookiecutter/cookiecutter-django/pull/5384))
+
 ## [2024-09-17]
 ### Changed
 - Update tox to 4.19.0 ([#5381](https://github.com/cookiecutter/cookiecutter-django/pull/5381))
