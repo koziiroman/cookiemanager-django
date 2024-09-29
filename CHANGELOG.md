@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-09-28]
+### Updated
+- Update uvicorn to 0.31.0 ([#5408](https://github.com/cookiecutter/cookiecutter-django/pull/5408))
+
 ## [2024-09-27]
 ### Updated
 - Update redis to 5.1.0 ([#5406](https://github.com/cookiecutter/cookiecutter-django/pull/5406))
