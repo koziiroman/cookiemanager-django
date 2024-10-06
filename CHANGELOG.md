@@ -3,6 +3,16 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-10-05]
+### Changed
+- Replace pip with uv for the project files ([#5356](https://github.com/cookiecutter/cookiecutter-django/pull/5356))
+- Update tox to 4.21.2 ([#5425](https://github.com/cookiecutter/cookiecutter-django/pull/5425))
+- Spit docs into sections ([#5426](https://github.com/cookiecutter/cookiecutter-django/pull/5426))
+- Use wait-for-it in favor of the custom python script when waiting for postgres ([#5327](https://github.com/cookiecutter/cookiecutter-django/pull/5327))
+- Add sphinx-autobuild to the template project and tidy up make files ([#5424](https://github.com/cookiecutter/cookiecutter-django/pull/5424))
+### Updated
+- Update crispy-bootstrap5 to 2024.10 ([#5430](https://github.com/cookiecutter/cookiecutter-django/pull/5430))
+
 ## [2024-10-04]
 ### Changed
 - Update ruff pre-commit hook ([#5429](https://github.com/cookiecutter/cookiecutter-django/pull/5429))
