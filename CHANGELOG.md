@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-10-31]
+### Changed
+- Replace docs extra by docs dependency group from PEP 735 ([#5493](https://github.com/cookiecutter/cookiecutter-django/pull/5493))
+
 ## [2024-10-30]
 ### Changed
 - Update pyproject-fmt pre-commit hook to v2.5.0 ([#5505](https://github.com/cookiecutter/cookiecutter-django/pull/5505))
