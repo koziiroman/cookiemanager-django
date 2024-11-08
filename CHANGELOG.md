@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-11-07]
+### Changed
+- Update djlint pre-commit hook ([#5520](https://github.com/cookiecutter/cookiecutter-django/pull/5520))
+### Updated
+- Update djlint to 1.36.1 ([#5519](https://github.com/cookiecutter/cookiecutter-django/pull/5519))
+
 ## [2024-11-05]
 ### Changed
 - Auto-update pre-commit hooks ([#5518](https://github.com/cookiecutter/cookiecutter-django/pull/5518))
