@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-11-25]
+### Changed
+- Bump astral-sh/setup-uv from 3 to 4 ([#5549](https://github.com/cookiecutter/cookiecutter-django/pull/5549))
+
 ## [2024-11-22]
 ### Changed
 - Update ruff pre-commit hook to v0.8.0 ([#5546](https://github.com/cookiecutter/cookiecutter-django/pull/5546))
