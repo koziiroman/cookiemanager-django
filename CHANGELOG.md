@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-12-20]
+### Changed
+- Auto-update pre-commit hooks ([#5596](https://github.com/cookiecutter/cookiecutter-django/pull/5596))
+### Updated
+- Update ruff to 0.8.4 ([#5595](https://github.com/cookiecutter/cookiecutter-django/pull/5595))
+
 ## [2024-12-17]
 ### Changed
 - Auto-update pre-commit hooks ([#5593](https://github.com/cookiecutter/cookiecutter-django/pull/5593))
