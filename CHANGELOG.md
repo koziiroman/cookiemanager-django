@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2024-12-31]
+### Changed
+- Update a bunch of dependencies in the template project ([#5612](https://github.com/cookiecutter/cookiecutter-django/pull/5612))
+- Fix missing update from uv.lock during release process ([#5611](https://github.com/cookiecutter/cookiecutter-django/pull/5611))
+- Update Jinja from 3.1.4 to 3.1.5 ([#5610](https://github.com/cookiecutter/cookiecutter-django/pull/5610))
+
 ## [2024-12-27]
 ### Updated
 - Update coverage to 7.6.10 ([#5608](https://github.com/cookiecutter/cookiecutter-django/pull/5608))
