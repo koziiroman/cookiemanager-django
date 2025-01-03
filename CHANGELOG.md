@@ -3,6 +3,15 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-01-02]
+### Changed
+- Update ruff pre-commit hook ([#5620](https://github.com/cookiecutter/cookiecutter-django/pull/5620))
+### Fixed
+- Fix logging configuration for Celery tasks ([#5563](https://github.com/cookiecutter/cookiecutter-django/pull/5563))
+### Updated
+- Update ruff to 0.8.5 ([#5619](https://github.com/cookiecutter/cookiecutter-django/pull/5619))
+- Update pillow to 11.1.0 ([#5617](https://github.com/cookiecutter/cookiecutter-django/pull/5617))
+
 ## [2024-12-31]
 ### Changed
 - Update a bunch of dependencies in the template project ([#5612](https://github.com/cookiecutter/cookiecutter-django/pull/5612))
