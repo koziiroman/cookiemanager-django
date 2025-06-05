@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-06-04]
+### Updated
+- Update argon2-cffi to 25.1.0 ([#5880](https://github.com/cookiecutter/cookiecutter-django/pull/5880))
+- Update pytest to 8.4.0 ([#5881](https://github.com/cookiecutter/cookiecutter-django/pull/5881))
+
 ## [2025-06-02]
 ### Updated
 - Update django-allauth to 65.9.0 ([#5879](https://github.com/cookiecutter/cookiecutter-django/pull/5879))
