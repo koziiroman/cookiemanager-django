@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-06-06]
+### Updated
+- Update ruff to 0.11.13 ([#5887](https://github.com/cookiecutter/cookiecutter-django/pull/5887))
+
 ## [2025-06-05]
 ### Updated
 - Bump python from 3.12.10 to 3.12.11 in docs Docker ([#5883](https://github.com/cookiecutter/cookiecutter-django/pull/5883))
