@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-06-10]
+### Updated
+- Update django to 5.1.11 ([#5891](https://github.com/cookiecutter/cookiecutter-django/pull/5891))
+- Update crispy-bootstrap5 to 2025.6 ([#5888](https://github.com/cookiecutter/cookiecutter-django/pull/5888))
+
 ## [2025-06-06]
 ### Updated
 - Update ruff to 0.11.13 ([#5887](https://github.com/cookiecutter/cookiecutter-django/pull/5887))
