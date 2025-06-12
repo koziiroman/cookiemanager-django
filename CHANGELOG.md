@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-06-11]
+### Changed
+- Bump stefanzweifel/git-auto-commit-action from 5 to 6 ([#5893](https://github.com/cookiecutter/cookiecutter-django/pull/5893))
+### Updated
+- Update collectfasta to 3.3.0 ([#5892](https://github.com/cookiecutter/cookiecutter-django/pull/5892))
+
 ## [2025-06-10]
 ### Updated
 - Update django to 5.1.11 ([#5891](https://github.com/cookiecutter/cookiecutter-django/pull/5891))
