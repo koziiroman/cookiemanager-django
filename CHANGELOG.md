@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-08-15]
+### Updated
+- Update django-allauth to 65.11.0 ([#5977](https://github.com/cookiecutter/cookiecutter-django/pull/5977))
+- Update sentry-sdk to 2.35.0 ([#5976](https://github.com/cookiecutter/cookiecutter-django/pull/5976))
+
 ## [2025-08-14]
 ### Updated
 - Update ruff to 0.12.9 ([#5975](https://github.com/cookiecutter/cookiecutter-django/pull/5975))
