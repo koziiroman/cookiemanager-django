@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-08-31]
+### Updated
+- Update coverage to 7.10.6 ([#5999](https://github.com/cookiecutter/cookiecutter-django/pull/5999))
+
 ## [2025-08-29]
 ### Changed
 - Move template linting and formatting to ruff ([#5613](https://github.com/cookiecutter/cookiecutter-django/pull/5613))
