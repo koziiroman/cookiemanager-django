@@ -3,6 +3,16 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-09-05]
+### Changed
+- Bump actions/setup-node from 4 to 5 ([#6008](https://github.com/cookiecutter/cookiecutter-django/pull/6008))
+### Updated
+- Update sentry-sdk to 2.37.0 ([#6015](https://github.com/cookiecutter/cookiecutter-django/pull/6015))
+- Upgrade actions/setup-python to v6 in template ([#6012](https://github.com/cookiecutter/cookiecutter-django/pull/6012))
+- Update django to 5.1.12 ([#6009](https://github.com/cookiecutter/cookiecutter-django/pull/6009))
+- Update ruff to 0.12.12 ([#6013](https://github.com/cookiecutter/cookiecutter-django/pull/6013))
+- Update pytest to 8.4.2 ([#6011](https://github.com/cookiecutter/cookiecutter-django/pull/6011))
+
 ## [2025-09-04]
 ### Changed
 - Bump actions/setup-python from 5 to 6 ([#6010](https://github.com/cookiecutter/cookiecutter-django/pull/6010))
