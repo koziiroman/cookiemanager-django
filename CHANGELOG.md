@@ -3,6 +3,15 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-09-11]
+### Changed
+- Bump sh from 2.1 to 2.2.2 ([#6049](https://github.com/cookiecutter/cookiecutter-django/pull/6049))
+- Enable collectfasta for Azure storage ([#6052](https://github.com/cookiecutter/cookiecutter-django/pull/6052))
+### Updated
+- Update ruff to 0.13.0 ([#6045](https://github.com/cookiecutter/cookiecutter-django/pull/6045))
+- Bump ruff pre-commit hook from 0.12.12 to 0.13.0 ([#6046](https://github.com/cookiecutter/cookiecutter-django/pull/6046))
+- Bump node from 24.7 to 24.8 ([#6047](https://github.com/cookiecutter/cookiecutter-django/pull/6047))
+
 ## [2025-09-10]
 ### Changed
 - Bump tox-uv from 1.17.0 to 1.28.0 ([#6040](https://github.com/cookiecutter/cookiecutter-django/pull/6040))
