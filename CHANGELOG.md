@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-10-01]
+### Changed
+- Bump tiangolo/issue-manager from 0.5.1 to 0.6.0 ([#6084](https://github.com/cookiecutter/cookiecutter-django/pull/6084))
+### Fixed
+- Fix Docker error volume name is too short during project generation ([#6086](https://github.com/cookiecutter/cookiecutter-django/pull/6086))
+### Updated
+- Update django to 5.2.7 ([#6087](https://github.com/cookiecutter/cookiecutter-django/pull/6087))
+
 ## [2025-09-30]
 ### Changed
 - Fix issue #3745: Use Django Browser Reload instead a Javascript based one for auto reload ([#6016](https://github.com/cookiecutter/cookiecutter-django/pull/6016))
