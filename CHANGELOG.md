@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-10-14]
+### Changed
+- Bump actions/setup-node from 5 to 6 ([#6117](https://github.com/cookiecutter/cookiecutter-django/pull/6117))
+### Updated
+- Update watchfiles to 1.1.1 ([#6120](https://github.com/cookiecutter/cookiecutter-django/pull/6120))
+- Update hiredis to 3.3.0 ([#6119](https://github.com/cookiecutter/cookiecutter-django/pull/6119))
+
 ## [2025-10-13]
 ### Changed
 - Enable version updates for Docker Compose files ([#6116](https://github.com/cookiecutter/cookiecutter-django/pull/6116))
