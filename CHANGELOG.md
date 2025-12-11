@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2025-12-10]
+### Changed
+- Bump peter-evans/create-pull-request from 7 to 8 ([#6243](https://github.com/cookiecutter/cookiecutter-django/pull/6243))
+### Updated
+- Bump nginx from 1.29.3 to 1.29.4 ([#6244](https://github.com/cookiecutter/cookiecutter-django/pull/6244))
+
 ## [2025-12-09]
 ### Updated
 - Update django-webpack-loader to 3.2.3 ([#6241](https://github.com/cookiecutter/cookiecutter-django/pull/6241))
