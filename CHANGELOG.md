@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-01-05]
+### Changed
+- Bump tox from 4.32.0 to 4.33.0 ([#6276](https://github.com/cookiecutter/cookiecutter-django/pull/6276))
+
 ## [2026-01-04]
 ### Updated
 - Update celery to 5.6.2 ([#6275](https://github.com/cookiecutter/cookiecutter-django/pull/6275))
