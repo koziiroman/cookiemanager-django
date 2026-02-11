@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-02-10]
+### Changed
+- Auto-update pre-commit hooks ([#6339](https://github.com/cookiecutter/cookiecutter-django/pull/6339))
+### Updated
+- Update redis to 7.1.1 ([#6338](https://github.com/cookiecutter/cookiecutter-django/pull/6338))
+- Update coverage to 7.13.4 ([#6336](https://github.com/cookiecutter/cookiecutter-django/pull/6336))
+
 ## [2026-02-09]
 ### Changed
 - Auto-update pyproject-fmt pre-commit hook ([#6334](https://github.com/cookiecutter/cookiecutter-django/pull/6334))
