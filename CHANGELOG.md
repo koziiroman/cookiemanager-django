@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-02-12]
+### Changed
+- Auto-update pre-commit hooks ([#6352](https://github.com/cookiecutter/cookiecutter-django/pull/6352))
+### Updated
+- Bump traefik from 3.6.7 to 3.6.8 ([#6353](https://github.com/cookiecutter/cookiecutter-django/pull/6353))
+
 ## [2026-02-11]
 ### Changed
 - Bump cryptography from 46.0.3 to 46.0.5 ([#6349](https://github.com/cookiecutter/cookiecutter-django/pull/6349))
