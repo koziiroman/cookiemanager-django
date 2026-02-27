@@ -3,6 +3,16 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-02-26]
+### Changed
+- Update ruff to 0.15.3 ([#6394](https://github.com/cookiecutter/cookiecutter-django/pull/6394))
+- Add pyproject-fmt to the generated project ([#6074](https://github.com/cookiecutter/cookiecutter-django/pull/6074))
+- Bump tox-uv from 1.32.1 to 1.33.0 ([#6392](https://github.com/cookiecutter/cookiecutter-django/pull/6392))
+- Bump tox from 4.46.0 to 4.46.3 ([#6393](https://github.com/cookiecutter/cookiecutter-django/pull/6393))
+### Updated
+- Update ruff to 0.15.4 ([#6395](https://github.com/cookiecutter/cookiecutter-django/pull/6395))
+- Update redis to 7.2.1 ([#6391](https://github.com/cookiecutter/cookiecutter-django/pull/6391))
+
 ## [2026-02-25]
 ### Changed
 - Bump django-upgrade from 1.29.1 to 1.30.0 ([#6389](https://github.com/cookiecutter/cookiecutter-django/pull/6389))
