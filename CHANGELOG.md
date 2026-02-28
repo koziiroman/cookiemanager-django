@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-02-27]
+### Updated
+- Update whitenoise to 6.12.0 ([#6396](https://github.com/cookiecutter/cookiecutter-django/pull/6396))
+
 ## [2026-02-26]
 ### Changed
 - Update ruff to 0.15.3 ([#6394](https://github.com/cookiecutter/cookiecutter-django/pull/6394))
