@@ -3,6 +3,16 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-03-12]
+### Changed
+- Remove hardcoded node versions from GitHub workflows ([#6430](https://github.com/cookiecutter/cookiecutter-django/pull/6430))
+- Remove hardcoded Python versions from GitHub workflows ([#6429](https://github.com/cookiecutter/cookiecutter-django/pull/6429))
+### Updated
+- Update django-ninja to 1.6.0 ([#6431](https://github.com/cookiecutter/cookiecutter-django/pull/6431))
+- Update pyproject-fmt pre-commit hook from 2.16.2 to 2.18.1 ([#6428](https://github.com/cookiecutter/cookiecutter-django/pull/6428))
+- Bump traefik from 3.6.9 to v3.6.10 ([#6423](https://github.com/cookiecutter/cookiecutter-django/pull/6423))
+- Bump nginx from 1.29.5 to 1.29.6 ([#6427](https://github.com/cookiecutter/cookiecutter-django/pull/6427))
+
 ## [2026-03-11]
 ### Changed
 - Add a generative AI page to the docs ([#6378](https://github.com/cookiecutter/cookiecutter-django/pull/6378))
