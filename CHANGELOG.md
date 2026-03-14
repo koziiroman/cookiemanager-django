@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-03-13]
+### Changed
+- Bump tox-uv from 1.33.2 to 1.33.4 ([#6434](https://github.com/cookiecutter/cookiecutter-django/pull/6434))
+### Updated
+- Update ruff to 0.15.6 ([#6432](https://github.com/cookiecutter/cookiecutter-django/pull/6432))
+
 ## [2026-03-12]
 ### Changed
 - Remove hardcoded node versions from GitHub workflows ([#6430](https://github.com/cookiecutter/cookiecutter-django/pull/6430))
