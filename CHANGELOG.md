@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-03-24]
+### Updated
+- Update redis to 7.4.0 ([#6456](https://github.com/cookiecutter/cookiecutter-django/pull/6456))
+- Update sentry-sdk to 2.56.0 ([#6457](https://github.com/cookiecutter/cookiecutter-django/pull/6457))
+- Update werkzeug to 3.1.7 ([#6455](https://github.com/cookiecutter/cookiecutter-django/pull/6455))
+
 ## [2026-03-23]
 ### Changed
 - Bump pygithub from 2.8.1 to 2.9.0 ([#6454](https://github.com/cookiecutter/cookiecutter-django/pull/6454))
