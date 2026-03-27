@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-03-26]
+### Changed
+- Ignore some more generated files ([#6464](https://github.com/cookiecutter/cookiecutter-django/pull/6464))
+- Bump requests from 2.32.5 to 2.33.0 ([#6461](https://github.com/cookiecutter/cookiecutter-django/pull/6461))
+### Updated
+- Update ruff to 0.15.8 ([#6463](https://github.com/cookiecutter/cookiecutter-django/pull/6463))
+- Update celery to 5.6.3 ([#6462](https://github.com/cookiecutter/cookiecutter-django/pull/6462))
+
 ## [2026-03-25]
 ### Updated
 - Update djangorestframework to 3.17.1 ([#6458](https://github.com/cookiecutter/cookiecutter-django/pull/6458))
