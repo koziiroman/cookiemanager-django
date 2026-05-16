@@ -3,6 +3,12 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-05-15]
+### Changed
+- Bump requests from 2.34.1 to 2.34.2 ([#6575](https://github.com/cookiecutter/cookiecutter-django/pull/6575))
+### Updated
+- Update uvicorn to 0.47.0 ([#6574](https://github.com/cookiecutter/cookiecutter-django/pull/6574))
+
 ## [2026-05-14]
 ### Changed
 - Fix RST formatting for keep_local_envs_in_vcs option ([#6557](https://github.com/cookiecutter/cookiecutter-django/pull/6557))
