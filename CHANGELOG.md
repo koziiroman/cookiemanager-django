@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-01]
+### Updated
+- Update sentry-sdk to 2.61.1 ([#6602](https://github.com/cookiecutter/cookiecutter-django/pull/6602))
+
 ## [2026-05-30]
 ### Changed
 - Bump uv from 0.11.6 to 0.11.15 ([#6599](https://github.com/cookiecutter/cookiecutter-django/pull/6599))
