@@ -3,6 +3,19 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-04]
+### Changed
+- Bump starlette from 0.50.0 to 1.0.1 ([#6612](https://github.com/cookiecutter/cookiecutter-django/pull/6612))
+- Bump tox from 4.55.0 to 4.55.1 ([#6608](https://github.com/cookiecutter/cookiecutter-django/pull/6608))
+### Updated
+- Update djlint to 1.38.1 ([#6616](https://github.com/cookiecutter/cookiecutter-django/pull/6616))
+- Update djlint to 1.37.0 ([#6613](https://github.com/cookiecutter/cookiecutter-django/pull/6613))
+- Update ruff to 0.15.16 ([#6614](https://github.com/cookiecutter/cookiecutter-django/pull/6614))
+- Update uvicorn to 0.49.0 ([#6611](https://github.com/cookiecutter/cookiecutter-django/pull/6611))
+- Bump node from 26.2 to 26.3 ([#6609](https://github.com/cookiecutter/cookiecutter-django/pull/6609))
+- Update hiredis to 3.4.0 ([#6607](https://github.com/cookiecutter/cookiecutter-django/pull/6607))
+- Update django to 6.0.6 ([#6606](https://github.com/cookiecutter/cookiecutter-django/pull/6606))
+
 ## [2026-06-02]
 ### Updated
 - Update django-redis to 7.0.0 ([#6605](https://github.com/cookiecutter/cookiecutter-django/pull/6605))
