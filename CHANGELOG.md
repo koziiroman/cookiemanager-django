@@ -3,6 +3,13 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-08]
+### Changed
+- Bump sh from 2.2.2 to 2.2.5 ([#6622](https://github.com/cookiecutter/cookiecutter-django/pull/6622))
+### Updated
+- Update sentry-sdk to 2.62.0 ([#6624](https://github.com/cookiecutter/cookiecutter-django/pull/6624))
+- Bump traefik from v3.7.3 to v3.7.4 ([#6623](https://github.com/cookiecutter/cookiecutter-django/pull/6623))
+
 ## [2026-06-06]
 ### Updated
 - Update djlint to 1.39.0 ([#6620](https://github.com/cookiecutter/cookiecutter-django/pull/6620))
