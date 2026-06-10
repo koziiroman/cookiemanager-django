@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-09]
+### Changed
+- Bump sh from 2.2.5 to 2.3.0 ([#6625](https://github.com/cookiecutter/cookiecutter-django/pull/6625))
+
 ## [2026-06-08]
 ### Changed
 - Bump sh from 2.2.2 to 2.2.5 ([#6622](https://github.com/cookiecutter/cookiecutter-django/pull/6622))
