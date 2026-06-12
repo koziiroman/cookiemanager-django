@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-11]
+### Updated
+- Update djlint to 1.39.2 ([#6629](https://github.com/cookiecutter/cookiecutter-django/pull/6629))
+- Update ruff to 0.15.17 ([#6630](https://github.com/cookiecutter/cookiecutter-django/pull/6630))
+
 ## [2026-06-10]
 ### Updated
 - Bump amazon/aws-cli from 2.34.0 to 2.35.1 ([#6626](https://github.com/cookiecutter/cookiecutter-django/pull/6626))
