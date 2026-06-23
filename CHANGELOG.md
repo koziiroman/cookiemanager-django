@@ -3,6 +3,10 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-06-22]
+### Changed
+- Bump pytest from 9.1.0 to 9.1.1 ([#6655](https://github.com/cookiecutter/cookiecutter-django/pull/6655))
+
 ## [2026-06-21]
 ### Fixed
 - Skip OpenAPI test file generation when `rest_api` is `None` ([#6652](https://github.com/cookiecutter/cookiecutter-django/pull/6652))
