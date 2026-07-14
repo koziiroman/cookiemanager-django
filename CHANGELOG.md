@@ -3,6 +3,14 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-07-13]
+### Changed
+- Update sentry-sdk to 2.65.0 ([#6721](https://github.com/cookiecutter/cookiecutter-django/pull/6721))
+- Bump gitpython from 3.1.50 to 3.1.51 ([#6717](https://github.com/cookiecutter/cookiecutter-django/pull/6717))
+### Updated
+- Update djlint to 1.40.6 ([#6719](https://github.com/cookiecutter/cookiecutter-django/pull/6719))
+- Update coverage to 7.15.1 ([#6716](https://github.com/cookiecutter/cookiecutter-django/pull/6716))
+
 ## [2026-07-12]
 ### Updated
 - Update djlint to 1.40.5 ([#6715](https://github.com/cookiecutter/cookiecutter-django/pull/6715))
