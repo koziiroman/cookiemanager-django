@@ -3,6 +3,20 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-09-14]
+### Changed
+- Bump tox from 4.61.2 to 4.61.4 ([#6873](https://github.com/cookiecutter/cookiecutter-django/pull/6873))
+- Bump gitpython from 3.1.61 to 3.1.62 ([#6868](https://github.com/cookiecutter/cookiecutter-django/pull/6868))
+### Updated
+- Update ruff to 0.16.7 ([#6869](https://github.com/cookiecutter/cookiecutter-django/pull/6869))
+- Update pyproject-fmt from v2.29.3 to v2.29.4 ([#6867](https://github.com/cookiecutter/cookiecutter-django/pull/6867))
+- Update uvicorn to 0.53.0 ([#6875](https://github.com/cookiecutter/cookiecutter-django/pull/6875))
+- Update django-stubs to 6.1.1 ([#6874](https://github.com/cookiecutter/cookiecutter-django/pull/6874))
+- Update coverage to 7.16.1 ([#6872](https://github.com/cookiecutter/cookiecutter-django/pull/6872))
+- Update django-allauth to 65.19.3 ([#6871](https://github.com/cookiecutter/cookiecutter-django/pull/6871))
+- Update python-slugify to 9.0.0 ([#6866](https://github.com/cookiecutter/cookiecutter-django/pull/6866))
+- Update sentry-sdk to 2.69.1 ([#6865](https://github.com/cookiecutter/cookiecutter-django/pull/6865))
+
 ## [2026-09-08]
 ### Updated
 - Update djlint to 1.46.1 ([#6864](https://github.com/cookiecutter/cookiecutter-django/pull/6864))
