@@ -3,6 +3,21 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-09-21]
+### Changed
+- Bump tox from 4.61.4 to 4.61.5 ([#6885](https://github.com/cookiecutter/cookiecutter-django/pull/6885))
+- Bump anyio from 4.12.1 to 4.14.2 ([#6881](https://github.com/cookiecutter/cookiecutter-django/pull/6881))
+### Updated
+- Update watchfiles to 1.3.0 ([#6886](https://github.com/cookiecutter/cookiecutter-django/pull/6886))
+- Update djlint to 1.46.2 ([#6884](https://github.com/cookiecutter/cookiecutter-django/pull/6884))
+- Update django-ninja to 1.7.1 ([#6883](https://github.com/cookiecutter/cookiecutter-django/pull/6883))
+- Update python-slugify to 9.1.0 ([#6882](https://github.com/cookiecutter/cookiecutter-django/pull/6882))
+- Update psycopg to 3.3.6 ([#6880](https://github.com/cookiecutter/cookiecutter-django/pull/6880))
+- Update ruff to 0.16.8 ([#6878](https://github.com/cookiecutter/cookiecutter-django/pull/6878))
+- Update django-allauth to 65.19.4 ([#6879](https://github.com/cookiecutter/cookiecutter-django/pull/6879))
+- Bump nginx from 1.31.5 to 1.31.6 ([#6877](https://github.com/cookiecutter/cookiecutter-django/pull/6877))
+- Update sentry-sdk to 2.69.2 ([#6876](https://github.com/cookiecutter/cookiecutter-django/pull/6876))
+
 ## [2026-09-14]
 ### Changed
 - Bump tox from 4.61.2 to 4.61.4 ([#6873](https://github.com/cookiecutter/cookiecutter-django/pull/6873))
