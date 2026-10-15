@@ -3,6 +3,17 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-10-14]
+### Changed
+- Remove unmaintained pixrem dependency ([#6968](https://github.com/cookiecutter/cookiecutter-django/pull/6968))
+- Bump tox-uv from 1.36.1 to 1.37.0 ([#6963](https://github.com/cookiecutter/cookiecutter-django/pull/6963))
+- Bump tox from 4.64.10 to 4.65.3 ([#6962](https://github.com/cookiecutter/cookiecutter-django/pull/6962))
+### Updated
+- Bump postcss from 8.5.28 to 8.5.29 ([#6967](https://github.com/cookiecutter/cookiecutter-django/pull/6967))
+- Bump postcss-preset-env from 11.5.5 to 11.6.1 ([#6966](https://github.com/cookiecutter/cookiecutter-django/pull/6966))
+- Bump cssnano from 9.1.2 to 9.6.0 ([#6965](https://github.com/cookiecutter/cookiecutter-django/pull/6965))
+- Bump the babel group across 1 directory with 2 updates ([#6964](https://github.com/cookiecutter/cookiecutter-django/pull/6964))
+
 ## [2026-10-13]
 ### Changed
 - Bump tox from 4.64.7 to 4.64.10 ([#6956](https://github.com/cookiecutter/cookiecutter-django/pull/6956))
