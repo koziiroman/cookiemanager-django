@@ -3,6 +3,11 @@ All enhancements and patches to Cookiecutter Django will be documented in this f
 
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2026-11-09]
+### Changed
+- Bump tox from 4.67.7 to 4.67.12 ([#7071](https://github.com/cookiecutter/cookiecutter-django/pull/7071))
+- Bump tox-uv from 1.37.3 to 1.37.5 ([#7074](https://github.com/cookiecutter/cookiecutter-django/pull/7074))
+
 ## [2026-11-06]
 ### Changed
 - Bump tox from 4.67.5 to 4.67.7 ([#7068](https://github.com/cookiecutter/cookiecutter-django/pull/7068))
